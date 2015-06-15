@@ -1,6 +1,7 @@
 h1 {
     color: hotpink;
     font-size: 44px;
+    font-style: italic;
     text-transform: uppercase;
 
     border: 1px solid red;
