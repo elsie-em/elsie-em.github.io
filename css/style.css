@@ -1,6 +1,6 @@
 h1 {
     color: hotpink;
-    font: arial, helvetica, sans-serif;
+    font-family: arial, helvetica, sans-serif;
     font-size: 44px;
     font-style: italic;
     text-transform: uppercase;
@@ -11,13 +11,13 @@ h1 {
 }
 p {
     color: skyblue;
-        font: arial, helvetica, sans-serif;
+        font-family: arial, helvetica, sans-serif;
 }
 ol {
     color: lightgreen;
-    font: arial, helvetica, sans-serif;
+    font-family: arial, helvetica, sans-serif;
 }
 ul {
     color: purple;
-    font: arial, helvetica, sans-serif;
+    font-family: arial, helvetica, sans-serif;
 }
